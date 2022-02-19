@@ -1,0 +1,660 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					3,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AQAAAAAAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"xdebug_view_update",
+					{
+						"data": "=> C:\\OpenServer\\domains\\epn.be\\index.php\n\t|+| 4\n\t|+| 6\n",
+						"readonly": true
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAPT4gQzpcT3BlblNlcnZlclxkb21haW5zXGVwbi5iZVxpbmRleC5waHAKCXwrfCA0Cgl8K3wgNgoAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OpenServer/domains/epn.be"
+	],
+	"file_history":
+	[
+		"/C/openserver/userdata/config/MySQL-5.7_my.ini",
+		"/C/openserver/userdata/config/PHP_7.3_php.ini",
+		"/C/OpenServer/domains/epn.be/index.php",
+		"/C/OpenServer/domains/epn.be/poject.sublime-project",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/openserver/userdata/config/PHP_8.1_php.ini",
+		"/C/openserver/userdata/config/PHP_7.4_php.ini",
+		"/C/openserver/progs/Default/Sublime_text/Data/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/openserver/userdata/config/PHP_8.0_php.ini",
+		"/C/OpenServer/progs/Default/Sublime_text/Data/Packages/User/Xdebug.sublime-settings",
+		"/C/OpenServer/domains/epn/index.php",
+		"/C/OpenServer/progs/Default/Sublime_text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/OpenServer/progs/Default/Sublime_text/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/yoda/Desktop/test.php",
+		"/C/Users/yoda/Desktop/Untitled-1.php",
+		"/C/Users/User/Desktop/545/Data/Packages/User/LocalizedMenu.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xdebug",
+			"debug",
+			"xdebug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.937106918239,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "poject.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
