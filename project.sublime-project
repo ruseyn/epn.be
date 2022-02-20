@@ -2,12 +2,14 @@
 	"folders":
 	[
 		{
-			"path": "."
-		}
+			"path": ".",
+		},
+		
+		
 	],
 	"settings": {
 		"xdebug":{
-			"url": "http://epn.be"
-		}
-	}
+			"url": "http://epn.be",
+		},
+	},
 }
