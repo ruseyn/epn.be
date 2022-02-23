@@ -140,7 +140,7 @@
 	margin: 20px 0;
 	font-weight: 400;
   max-width: 700px;
-  background: rgba(60, 60, 60, 0.4);
+ /* background: rgba(60, 60, 60, 0.4);
 	box-shadow: 0 15px 40px rgba(60, 60, 60, 0.5);
 	border-top: 1px solid rgba(60, 60, 60, 0.1);
 	border-bottom: 1px solid rgba(60, 60, 60, 0.1);
@@ -240,7 +240,7 @@ transition-delay: 0.27s;
 }
 
 
-/*.social  {
+.social  {
 	position: absolute;
 	bottom: 20px;
 	z-index: 10;
@@ -304,13 +304,20 @@ z-index: 2;
 
 background: linear-gradient(180deg, #DBEAE9 30.71%, #FF0000 72.44%, #FFDDDD 100%);
 }
+
+.container
+{
+	width: 1583px;
+}
+
 .box
 {
 
   position: relative;
     margin-top: 0px;
-    left: 85%;
+    left: 90%; 
 }
+ 
 .box .square
 {
   position: relative;
@@ -368,8 +375,8 @@ background: linear-gradient(180deg, #DBEAE9 30.71%, #FF0000 72.44%, #FFDDDD 100%
 }
 .box .square:nth-child(4)
 {
-  bottom: 80px;
-  left: 60px;
+  bottom: 100px;
+  left: 80px;
   width: 0px ;
   height: 0px;
   z-index: 2;
@@ -389,20 +396,33 @@ background: linear-gradient(180deg, #DBEAE9 30.71%, #FF0000 72.44%, #FFDDDD 100%
   box-shadow: 0 25px 45px rgba(0, 0, 0, 1.0) ; 
   border-radius: 100%;
 }
+
 .mail{
-  width: 50px;
+  width: 100px;
   cursor: pointer;
   box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5) ; 
   border-radius:100%;
   
 }
+.mail {
+    transition: 1s; /* Время эффекта */
+   }
+   .mail:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
 .map{
-  width: 50px;
+  width: 100px;
   cursor: pointer;
   box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5) ; 
   border-radius:100%;
   
 }
+.map {
+    transition: 1s; /* Время эффекта */
+   }
+   .map:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
 .call
 {
 width: 50px;
@@ -410,9 +430,15 @@ width: 50px;
   box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5) ; 
   border-radius:100%;
 }
+.call {
+    transition: 1s; /* Время эффекта */
+   }
+   .call:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
 .naruto
 {
-width: 100px;
+width: 200px;
   cursor: pointer;
   box-shadow: 0 25px 45px rgba(0, 0, 0, 1.0) ; 
   border-radius:10%;
