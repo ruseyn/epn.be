@@ -240,7 +240,7 @@ transition-delay: 0.27s;
 }
 
 
-.social  {
+/*.social  {
 	position: absolute;
 	bottom: 20px;
 	z-index: 10;
@@ -267,7 +267,7 @@ transition-delay: 0.27s;
 .social li:hover {
 	transform: scale(0.7) translateY(-15px);
 
-}
+}*/
 
 
 
@@ -299,10 +299,123 @@ min-height: 100vh;
 padding: 100px;
 display: flex;
 justify-content: space-between;
-align-items: center;
+/*align-items: center;*/
 z-index: 2;
 
 background: linear-gradient(180deg, #DBEAE9 30.71%, #FF0000 72.44%, #FFDDDD 100%);
+}
+.box
+{
+
+  position: relative;
+    margin-top: 0px;
+    left: 85%;
+}
+.box .square
+{
+  position: relative;
+ /*background-filter: blur(15px) ;*/
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5) ;
+ /* border: 1px solid rgb(255, 255, 255, 0.5);
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgb(255, 255, 255, 0.1);*/
+  border-radius: 10px;
+  animation: animate 7s linear infinite;
+}
+@keyframes animate
+{
+  0%
+  {
+    transform: translateY(-0px);
+  }
+    50%
+  {
+    transform: translateY(30px);
+  }
+}
+.box .square:nth-child(1)
+{
+  top: 100px;
+  right: 50px;
+  width:0px ;
+  height: 100px;
+}
+.box .square:nth-child(2)
+{
+  top: 110px;
+  left: 30px;
+  width:0px ;
+  height: 0px;
+  z-index: 2;
+}  
+
+.box .square:nth-child(3)
+{
+  bottom: 50px;
+  right: 90px;
+  width: 0px ;
+  height: 80px;
+  z-index: 2;
+
+}
+
+
+}
+{
+  width: 50px;
+
+}
+.box .square:nth-child(4)
+{
+  bottom: 80px;
+  left: 60px;
+  width: 0px ;
+  height: 0px;
+  z-index: 2;
+}
+.box .square:nth-child(5)
+{
+  top: 0px;
+  right: 140px;
+  width: 0 ;
+  height: 0;
+  z-index: 2;
+}
+
+.git{
+  width: 50px;
+  cursor: pointer;
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 1.0) ; 
+  border-radius: 100%;
+}
+.mail{
+  width: 50px;
+  cursor: pointer;
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5) ; 
+  border-radius:100%;
+  
+}
+.map{
+  width: 50px;
+  cursor: pointer;
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5) ; 
+  border-radius:100%;
+  
+}
+.call
+{
+width: 50px;
+  cursor: pointer;
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.5) ; 
+  border-radius:100%;
+}
+.naruto
+{
+width: 100px;
+  cursor: pointer;
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 1.0) ; 
+  border-radius:10%;
 }
 
 
